@@ -1,4 +1,4 @@
-# Title: Analyzing the Impact of Elon Musk's Twitter Feed on Cryptocurrency Prices
+# Analyzing the Impact of Elon Musk's Twitter Feed on Cryptocurrency Prices
 
 #### The following project is for analyzing the impact of Elon Musk tweets on the price of the Cryptocurrency XYZ.
 
