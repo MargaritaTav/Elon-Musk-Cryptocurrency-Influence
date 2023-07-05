@@ -1,0 +1,11 @@
+Name of QuantLet : DEDA_Elon_Musk_Cryptocurrency_Influence
+
+Published in : DEDA class
+
+Description : 'This quantlet analyzes the relationship between Elon Musk's tweets and the subsequent price movements of the cryptocurrency Bitcoin. Sentiment analysis and jump detection are used as methods.'
+
+Keywords : BTC, Bitcoin, Dogecoin, sentiment analysis, Twitter, tweets, jump detection, cryptocurrency
+
+Authors : Berkan Alper Aktas, Margarita Tavkazakova, Maral Togtokhbaatar
+
+Submitted : July 11 2023
